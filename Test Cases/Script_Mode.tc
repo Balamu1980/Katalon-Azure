@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Creation of Test_Case in Katalon Studion using Script Mode</description>
+   <name>Script_Mode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43940486-8d23-4e79-88c0-eac7938a42f9</testCaseGuid>
+</TestCaseEntity>
